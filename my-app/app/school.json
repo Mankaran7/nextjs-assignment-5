@@ -1,0 +1,181 @@
+{
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "subject": "Mathematics"
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "subject": "Science"
+      },
+      {
+        "id": 3,
+        "name": "Catherine Lee",
+        "subject": "English"
+      },
+      {
+        "id": 4,
+        "name": "David Brown",
+        "subject": "History"
+      },
+      {
+        "id": 5,
+        "name": "Eva White",
+        "subject": "Geography"
+      }
+    ],
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "teacher_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "teacher_id": 1
+      },
+      {
+        "id": 3,
+        "name": "Jack Black",
+        "teacher_id": 2
+      },
+      {
+        "id": 4,
+        "name": "Jill Green",
+        "teacher_id": 2
+      },
+      {
+        "id": 5,
+        "name": "Tom White",
+        "teacher_id": 3
+      },
+      {
+        "id": 6,
+        "name": "Sue Blue",
+        "teacher_id": 3
+      },
+      {
+        "id": 7,
+        "name": "Ray Brown",
+        "teacher_id": 4
+      },
+      {
+        "id": 8,
+        "name": "Kim Black",
+        "teacher_id": 4
+      },
+      {
+        "id": 9,
+        "name": "Chris Red",
+        "teacher_id": 5
+      },
+      {
+        "id": 10,
+        "name": "Pat Green",
+        "teacher_id": 5
+      },
+      {
+        "id": 11,
+        "name": "Sam Yellow",
+        "teacher_id": 1
+      },
+      {
+        "id": 12,
+        "name": "Alex Grey",
+        "teacher_id": 1
+      },
+      {
+        "id": 13,
+        "name": "Jamie Purple",
+        "teacher_id": 2
+      },
+      {
+        "id": 14,
+        "name": "Jordan Orange",
+        "teacher_id": 2
+      },
+      {
+        "id": 15,
+        "name": "Taylor Pink",
+        "teacher_id": 3
+      },
+      {
+        "id": 16,
+        "name": "Morgan Cyan",
+        "teacher_id": 3
+      },
+      {
+        "id": 17,
+        "name": "Casey Indigo",
+        "teacher_id": 4
+      },
+      {
+        "id": 18,
+        "name": "Drew Gold",
+        "teacher_id": 4
+      },
+      {
+        "id": 19,
+        "name": "Riley Silver",
+        "teacher_id": 5
+      },
+      {
+        "id": 20,
+        "name": "Peyton Black",
+        "teacher_id": 5
+      },
+      {
+        "id": 21,
+        "name": "Cameron White",
+        "teacher_id": 1
+      },
+      {
+        "id": 22,
+        "name": "Skylar Brown",
+        "teacher_id": 1
+      },
+      {
+        "id": 23,
+        "name": "Taylor Blue",
+        "teacher_id": 2
+      },
+      {
+        "id": 24,
+        "name": "Addison Green",
+        "teacher_id": 2
+      },
+      {
+        "id": 25,
+        "name": "Reese Red",
+        "teacher_id": 3
+      },
+      {
+        "id": 26,
+        "name": "Avery Yellow",
+        "teacher_id": 3
+      },
+      {
+        "id": 27,
+        "name": "Parker Pink",
+        "teacher_id": 4
+      },
+      {
+        "id": 28,
+        "name": "Jordan Orange",
+        "teacher_id": 4
+      },
+      {
+        "id": 29,
+        "name": "Bailey Purple",
+        "teacher_id": 5
+      },
+      {
+        "id": 30,
+        "name": "Harper Grey",
+        "teacher_id": 5
+      }
+    ]
+  }
